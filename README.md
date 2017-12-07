@@ -1,2 +1,2 @@
 # greed
-Infinite knowledge, finite life
+Infinite knowledge, finite lifetime
