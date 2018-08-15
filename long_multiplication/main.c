@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
         assert(yl <= MAX_LEN);
         for (int i = 0; i < yl; ++i) {
             y[i] = ctoi(argv[2][yl - 1 - i]);
-            assert(x[i] < base);
+            assert(y[i] < base);
         }
         dump(y, yl);
         break;
