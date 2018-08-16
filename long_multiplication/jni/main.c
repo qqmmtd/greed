@@ -58,7 +58,7 @@ static void usage()
     fprintf(stderr, "\n\
 usage:\n\
     long_multiplication x y [base]\n\
-");
+\n");
     exit(EXIT_FAILURE);
 }
 

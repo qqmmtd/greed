@@ -1,4 +1,4 @@
-long_multiplication: main.c
+long_multiplication: jni/main.c
 	gcc -Wall -std=c99 -o $@ $^
 
 clean:
